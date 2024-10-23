@@ -1,0 +1,3 @@
+20210001;Juan;Perez;Ingeniería de Sistemas;5
+20210002;Maria;Lopez;Administración de Empresas;4
+20210003;Pedro;Gonzalez;Contabilidad;6
